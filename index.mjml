@@ -133,5 +133,14 @@
     </mj-section>
     <!-- / Third Product Row -->
     <!-- ======> / Product Columns <====== -->
+    <!-- ======> Footer <====== -->
+    <mj-section background-color="#fff">
+      <mj-column padding-top="20px">
+        <mj-button href="https://www.crystalearthstudio.com/Wholesalecatalog/SOCIALMEDIA" font-size="15px">
+          Visit our full website
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <!-- ======> / Footer <====== -->
   </mj-body>
 </mjml>
