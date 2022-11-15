@@ -111,6 +111,27 @@
       </mj-group>
     </mj-section>
     <!-- / Second Product Row -->
+    <!-- Third Product Row -->
+    <mj-section background-color="#fff" padding-top="12px">
+      <mj-group>
+        <mj-column>
+          <mj-text align="center" padding-top="10px">
+            <img class="prod-img" src="https://crystalearthstudio.info/userfiles/image/Monthly%20email/2022/Nov%202022/3rd%20Email/mo_013203.jpg" alt="">
+          </mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-text align="center" padding-top="10px">
+            <img class="prod-img" src="https://crystalearthstudio.info/userfiles/image/Monthly%20email/2022/Nov%202022/3rd%20Email/mo_032805.jpg" alt="">
+          </mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-text align="center" padding-top="10px">
+            <img class="prod-img" src="https://crystalearthstudio.info/userfiles/image/Monthly%20email/2022/Nov%202022/3rd%20Email/mo_003207.jpg" alt="">
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- / Third Product Row -->
     <!-- ======> / Product Columns <====== -->
   </mj-body>
 </mjml>
