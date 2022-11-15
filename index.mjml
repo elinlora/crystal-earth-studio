@@ -184,6 +184,23 @@
       </mj-column>
     </mj-section>
     <!-- / Contact -->
+    <!-- Social -->
+    <mj-section background-color="#fff">
+      <mj-column padding-top="30px" padding-bottom="30px">
+        <mj-text align="center">
+          <a href="https://www.facebook.com/CrystalEarthStudio" target="_blank" style="padding: 0 5px;">
+            <img src="https://crystalearthstudio.info/userfiles/image/Social%20Media%20Icons/Facebook(1).jpg" alt="Facebook">
+          </a>
+          <a href="https://www.instagram.com/Crystalearthstudio" target="_blank" style="padding: 0 5px;">
+            <img src="https://crystalearthstudio.info/userfiles/image/Social%20Media%20Icons/Instagram(1).jpg" alt="Instagram">
+          </a>
+          <a href="https://crystalearthsterling.faire.com" target="_blank" style="padding: 0 5px;">
+            <img src="https://crystalearthstudio.info/userfiles/image/Social%20Media%20Icons/Flair%20Icon%20reduced.jpg" alt="Faire">
+          </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- / Social -->
     <!-- ======> / Footer <====== -->
   </mj-body>
 </mjml>
