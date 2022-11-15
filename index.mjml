@@ -168,6 +168,22 @@
       </mj-column>
     </mj-section>
     <!-- / Divider -->
+    <!-- Contact -->
+    <mj-section>
+      <mj-column>
+        <mj-text align="center" font-size="18px" font-family="Helvetica" padding-top="30px">
+          <span class="bold">Our Ring Catalog, sizes 5-13 is available on <a href="https://www.faire.com" target="_blank" style="color: #6495ed;">Faire.com</a></span>
+        </mj-text>
+        <mj-image padding-top="30px" width="360px" href="https://www.faire.com" src="https://crystalearthstudio.info/userfiles/image/Buttons/Flair%20Button.jpg" alt="Faire" />
+        <mj-text align="center" padding-top="45px" font-family="Helvetica" font-size="14px">
+          <span class="bold">Crystal Earth Studio LLC</span> 6059 Everett St. Naples fl 34112   T:1-866-345-1910 F: 1-866-422-0002 sms:239-341-3347
+        </mj-text>
+        <mj-text align="center" padding-top="15px" font-size="18px">
+          <a href="mailto:Steve@crystalearthstudio.com">Steve@crystalearthstudio.com</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- / Contact -->
     <!-- ======> / Footer <====== -->
   </mj-body>
 </mjml>
