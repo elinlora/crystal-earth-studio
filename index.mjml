@@ -55,15 +55,23 @@
     </mj-style>
   </mj-head>
   <mj-body>
+    <!-- ======> Header <====== -->
     <mj-section background-color="#fff">
       <mj-column>
         <mj-image href="https://www.crystalearthstudio.com/Wholesalecatalog/SOCIALMEDIA" src="https://crystalearthstudio.info/userfiles/image/New%20Index%20Page%20Oct%2022/Banner.jpg" alt="Crystal Earth Studio" />
       </mj-column>
     </mj-section>
+    <!-- ======> / Header <====== -->
+    <!-- ======> Product Columns <====== -->
+    <!-- Product Heading -->
     <mj-section>
       <mj-column>
-        
+        <mj-text align="center" font-size="30px" font-style="italic" padding-top="10px">
+          See our newest arrivals
+        </mj-text>
       </mj-column>
     </mj-section>
+    <!-- / Product Heading -->
+    <!-- ======> / Product Columns <====== -->
   </mj-body>
 </mjml>
