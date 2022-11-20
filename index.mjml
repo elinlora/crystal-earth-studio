@@ -48,9 +48,6 @@
       }
       /* Mobile */
       @media only screen and (max-width: 599.8px) {
-        .prod-img {
-          max-width: 100px !important:
-        }
       }
     </mj-style>
   </mj-head>
